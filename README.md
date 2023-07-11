@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+You can see my resume [here](https://drive.google.com/file/d/1hv_QctHgUWSWKUOkkmlKhXBkxHanrtGD/view?usp=sharing). 
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreitablan&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreitablan&layout=compact&show_icons=true&theme=transparent)
 ## My projects
