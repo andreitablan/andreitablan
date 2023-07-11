@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-My name is Andrei and this is my GitHub profile.
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreitablan&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreitablan&layout=compact&show_icons=true&theme=transparent)
 ## My projects
