@@ -2,7 +2,7 @@
 
 My name is Andrei and this is my GitHub profile.
 ## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreitablan&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreitablan&layout=compact&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreitablan&show_icons=true&theme=transparent)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreitablan&layout=compact&show_icons=true&theme=transparent)
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreitablan&repo=Actors-Guild-Awards-Visualizer&show_icons=true&theme=transparent)](https://github.com/andreitablan/Actors-Guild-Awards-Visualizer) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andreitablan&repo=Graph-bot&show_icons=true&theme=transparent)](https://github.com/andreitablan/Graph-bot)
 
