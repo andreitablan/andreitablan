@@ -1,5 +1,5 @@
 ### Hi there 👋
-You can see my resume [here](https://drive.google.com/file/d/1l21chd1xi0fa5mqgxlF8N-mTy-4pUZNv/view?usp=sharing).
+You can see my resume [here](https://drive.google.com/file/d/1odQLQ4wk7ZcL5PFFARuOWaEZr9ywN_i2/view?usp=sharing).
 ## My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreitablan&layout=compact&show_icons=true&theme=transparent)
 ## My projects
